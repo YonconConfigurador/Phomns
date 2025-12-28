@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Universal" tvg-name="Studio Universal BR",Studio Universal
-#EXTVLCOPT:http-referrer=https://d1muf25xa11so8hp05.s27-usa-cloudfront-net.online/token/6776650d4c14b6010af3cedfc3b53a74/studiouniversal.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
-https://d1muf25xa11so8hp05.s27-usa-cloudfront-net.online/token/6776650d4c14b6010af3cedfc3b53a74/studiouniversal.m3u8
+https://d1muf25xa11so8hp05.s27-usa-cloudfront-net.online/token/6776650d4c14b6010af3cedfc3b53a74/studiouniversal.m3u8|Referer=d1muf25xa11so8hp05.s27-usa-cloudfront-net.online (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="Aeee" tvg-logo="https://supertvaovivo.lat/wp-content/uploads/2021/08/assistir-universaltv-ao-vivo.webp" group-title="Entreterimento",metanol
 https://outbound-proxy-us-east1-0-glob-usercontent-client-id-2264739661.gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo/docs/aie/__index.m3u8?cc=y&sv=185&nu3zAQc9HC3GbwJq=1766927132-RGThV6SssxKio55OD8zkzoUGPNc%2Bxs0KQBG4Iw0traY%3D
